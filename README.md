@@ -13,8 +13,15 @@
 >>> status: ONLINE</code></pre>
 
 </div>
-</div>
 
+
+---
+## 📊 github stats
+<div align="center">
+
+![stats](https://streak-stats.demolab.com?user=Saibot2012&theme=dark&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0a0a0a&stroke=1e1e1e&sideLabels=888888&dates=888888)
+
+</div>
 ---
 
 ## 🥁 about me
@@ -46,15 +53,8 @@ Python developer focused on:
 | [Time-Lapse-Fusion](https://github.com/Saibot2012/Time-Lapse-Fusion) | automated time-lapse video generation |
 | [Time-Lapse-Fusion-HIGAR](https://github.com/Saibot2012/Time-Lapse-Fusion-HIGAR-) | temporal imaging & video analysis |
 
----
-
-## 📊 github stats
-<div align="center">
-
-![stats](https://streak-stats.demolab.com?user=Saibot2012&theme=dark&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0a0a0a&stroke=1e1e1e&sideLabels=888888&dates=888888)
-
-</div>
 
 ---
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,100:0a0a0a&height=80&section=footer)
