@@ -1,6 +1,8 @@
+<h2>Hi, I'm Gin Kiat👋! I'm an aspiring software engineer who has an interest in Photography and image fusion!</h2>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:c9a84c&height=140&section=header&text=Saibot2012&fontSize=32&fontColor=c9a84c&animation=fadeIn&fontAlignY=55)
 
-<h2>Hi, I'm Gin Kiat! I'm an aspiring software engineer who has an interest in Photography and image fusion!</h2>
+
 
 <div align="center">
 
