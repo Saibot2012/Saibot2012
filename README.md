@@ -1,16 +1,12 @@
 <h2>Hi👋! I'm Gin Kiat, and I am an aspiring software engineer who has an interest in photography and image fusion!</h2>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:c9a84c&height=140&section=header&text=Saibot2012&fontSize=32&fontColor=b08d3c&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:c9a84c&height=140&section=header&animation=fadeIn&fontAlignY=55)
 
 
 
 <div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Saibot2012.Saibot2012&color=c9a84c&labelColor=0a0a0a&label=profile%20visits)
-
-<pre><code>>>> initializing profile...
->>> loading developer data...
->>> status: ONLINE</code></pre>
 
 </div>
 
@@ -33,14 +29,7 @@
 
 
 
-| project | description |
-|---|---|
-| [Time-Lapse-Fusion](https://github.com/Saibot2012/Time-Lapse-Fusion) | automated time-lapse video generation |
-| [Time-Lapse-Fusion-HIGAR](https://github.com/Saibot2012/Time-Lapse-Fusion-HIGAR-) | temporal imaging & video analysis |
-
-
-
 ![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-![status](https://img.shields.io/badge/status-coding%20in%20progress-0a0a0a?style=for-the-badge&logo=github&logoColor=c9a84c)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,100:0a0a0a&height=80&section=footer)
