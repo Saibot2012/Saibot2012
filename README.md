@@ -1,6 +1,6 @@
 <h2>Hi👋! I'm Gin Kiat, and I am an aspiring software engineer who has an interest in photography and image fusion!</h2>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:c9a84c&height=140&section=header&animation=fadeIn&fontAlignY=55&desc=Aspiring%20Software%20Engineer%20%7C%20Photography%20%7C%20Image%20Fusion&descSize=14&descAlignY=75&descColor=8a6f2a)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:c9a84c&height=140&section=header&animation=fadeIn&fontAlignY=55&desc=Aspiring%20Software%20Engineer%20%7C%20Photography%20%7C%20Image%20Fusion&descSize=14&descAlignY=75&descColor=ffffff)
 
 
 
@@ -34,10 +34,6 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0a0a0a?style=flat&logo=visualstudio&logoColor=c9a84c)
 ![Cisco](https://img.shields.io/badge/Cisco-0a0a0a?style=flat&logo=cisco&logoColor=c9a84c)
 
-
-![VS Code](https://img.shields.io/badge/VS%20Code-0a0a0a?style=flat&logo=vscode&logoColor=c9a84c)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0a0a0a?style=flat&logo=visualstudio&logoColor=c9a84c)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat&logo=css3&logoColor=c9a84c)
 </div>
 
 
