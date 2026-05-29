@@ -34,6 +34,8 @@ Python developer focused on:
 ![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=flat&logo=opencv&logoColor=c9a84c)
 ![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat&logo=linux&logoColor=c9a84c)
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat&logo=git&logoColor=c9a84c)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=c9a84c)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=c9a84c)
 </div>
 ---
 
