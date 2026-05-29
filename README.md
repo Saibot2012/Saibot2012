@@ -28,6 +28,9 @@
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=c9a84c)
 ![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=c9a84c)
 ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=c9a84c)
+![VS Code](https://img.shields.io/badge/VSCode-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0a0a0a?style=for-the-badge&logo=visualstudio&logoColor=c9a84c)
+![Cisco](https://img.shields.io/badge/Cisco-0a0a0a?style=for-the-badge&logo=cisco&logoColor=c9a84c)
 </div>
 
 
