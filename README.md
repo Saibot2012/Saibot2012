@@ -18,23 +18,23 @@
 ---
 
 ## 🥁 about me
-<div align="center">
 
 Python developer focused on:
 - time-lapse generation
 - video processing
 - automation pipelines
 - computer vision experimentation
-</div>
+
 ---
 
 ## 🛠️ tech stack
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat&logo=python&logoColor=c9a84c)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=flat&logo=opencv&logoColor=c9a84c)
 ![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat&logo=linux&logoColor=c9a84c)
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat&logo=git&logoColor=c9a84c)
-
+</div>
 ---
 
 ## 📌 projects
