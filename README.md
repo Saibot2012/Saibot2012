@@ -5,10 +5,12 @@
 
 
     ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Saibot2012.Saibot2012&color=c9a84c&labelColor=0a0a0a&label=profile%20visits)
+
     ```python
     >>> initializing profile...
     >>> loading developer data...
     >>> status: ONLINE
+    ```
 
 </div>
 
