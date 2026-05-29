@@ -2,16 +2,13 @@
 
 <div align="center">
 
+![visitors](...)
 
+<pre><code>>>> initializing profile...
+>>> loading developer data...
+>>> status: ONLINE</code></pre>
 
-    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Saibot2012.Saibot2012&color=c9a84c&labelColor=0a0a0a&label=profile%20visits)
-
-    ```python
-    >>> initializing profile...
-    >>> loading developer data...
-    >>> status: ONLINE
-    ```
-
+</div>
 </div>
 
 ---
@@ -46,7 +43,7 @@ Python developer focused on:
 
 ## 📊 github stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Saibot2012&show_icons=true&theme=transparent&title_color=c9a84c&icon_color=c9a84c&text_color=d4d4d4&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=Saibot2012&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=c9a84c&icon_color=c9a84c&text_color=d4d4d4&hide_border=true)
 
 ---
 
