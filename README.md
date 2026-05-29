@@ -5,6 +5,10 @@
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Saibot2012.Saibot2012&color=c9a84c&labelColor=0a0a0a&label=profile%20visits)
+```python
+>>> initializing profile...
+>>> loading developer data...
+>>> status: ONLINE
 
 </div>
 
@@ -12,7 +16,11 @@
 
 ## 🥁 about me
 
-Python developer focused on time-lapse and video processing. 
+Python developer focused on:
+- time-lapse generation
+- video processing
+- automation pipelines
+- computer vision experimentation
 
 ---
 
@@ -22,7 +30,6 @@ Python developer focused on time-lapse and video processing.
 ![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=flat&logo=opencv&logoColor=c9a84c)
 ![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat&logo=linux&logoColor=c9a84c)
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat&logo=git&logoColor=c9a84c)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-0a0a0a?style=flat&logo=ffmpeg&logoColor=c9a84c)
 
 ---
 
@@ -37,7 +44,7 @@ Python developer focused on time-lapse and video processing.
 
 ## 📊 github stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Saibot2012&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=888888&bg_color=0a0a0a&hide_border=true)
+![stats](https://github-readme-stats.vercel.app/api?username=Saibot2012&show_icons=true&theme=transparent&title_color=c9a84c&icon_color=c9a84c&text_color=d4d4d4&hide_border=true)
 
 ---
 
