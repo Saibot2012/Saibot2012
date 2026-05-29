@@ -18,13 +18,14 @@
 ---
 
 ## 🥁 about me
+<div align="center">
 
 Python developer focused on:
 - time-lapse generation
 - video processing
 - automation pipelines
 - computer vision experimentation
-
+</div>
 ---
 
 ## 🛠️ tech stack
