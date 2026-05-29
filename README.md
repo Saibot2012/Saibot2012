@@ -30,10 +30,10 @@ Python developer focused on:
 ## 🛠️ tech stack
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat&logo=python&logoColor=c9a84c)
-![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=flat&logo=opencv&logoColor=c9a84c)
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat&logo=linux&logoColor=c9a84c)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat&logo=git&logoColor=c9a84c)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=c9a84c)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=for-the-badge&logo=opencv&logoColor=c9a84c)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=c9a84c)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=c9a84c)
 ![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=c9a84c)
 ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=c9a84c)
 </div>
