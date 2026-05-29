@@ -1,6 +1,6 @@
 <h2>Hi👋! I'm Gin Kiat, and I am an aspiring software engineer who has an interest in photography and image fusion!</h2>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:c9a84c&height=140&section=header&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:c9a84c&height=140&section=header&animation=fadeIn&fontAlignY=55&desc=Aspiring%20Software%20Engineer%20%7C%20Photography%20%7C%20Image%20Fusion&descSize=14&descAlignY=75&descColor=8a6f2a)
 
 
 
@@ -22,9 +22,9 @@
 </div>
 
 
-
-![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 ![status](https://img.shields.io/badge/status-coding%20in%20progress-0a0a0a?style=for-the-badge&logo=github&logoColor=c9a84c)
+![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=Saibot2012&bg_color=0a0a0a&color=c9a84c&line=c9a84c&point=1a1a1a&hide_border=true)
 
 <div align="center">
 
