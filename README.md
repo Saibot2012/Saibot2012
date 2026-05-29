@@ -1,4 +1,4 @@
-<h2>Hi, I'm Gin Kiat👋! I'm an aspiring software engineer who has an interest in photography and image fusion!</h2>
+<h2>Hi👋! I'm Gin Kiat, and I am an aspiring software engineer who has an interest in photography and image fusion!</h2>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:c9a84c&height=140&section=header&text=Saibot2012&fontSize=32&fontColor=b08d3c&animation=fadeIn&fontAlignY=55)
 
@@ -40,6 +40,6 @@
 
 
 
-
+![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,100:0a0a0a&height=80&section=footer)
