@@ -49,8 +49,11 @@ Python developer focused on:
 ---
 
 ## 📊 github stats
+<div align="center">
 
 ![stats](https://streak-stats.demolab.com?user=Saibot2012&theme=dark&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0a0a0a&stroke=1e1e1e&sideLabels=888888&dates=888888)
+
+</div>
 
 ---
 
