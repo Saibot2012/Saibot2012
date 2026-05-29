@@ -1,4 +1,4 @@
-<h2>Hi👋! I'm Gin Kiat, and I am an aspiring software engineer who has an interest in photography and image fusion!</h2>
+<h2>Hi👋! I'm Gin Kiat, and I am an aspiring EC/Software engineer who has an interest in photography and image fusion!</h2>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:c9a84c&height=140&section=header&animation=fadeIn&fontAlignY=55&desc=Aspiring%20Software%20Engineer%20%7C%20Photography%20%7C%20Image%20Fusion&descSize=14&descAlignY=75&fontColor=ffffff)
 
