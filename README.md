@@ -33,6 +33,11 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0a0a0a?style=flat&logo=vscode&logoColor=c9a84c)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0a0a0a?style=flat&logo=visualstudio&logoColor=c9a84c)
 ![Cisco](https://img.shields.io/badge/Cisco-0a0a0a?style=flat&logo=cisco&logoColor=c9a84c)
+
+
+![VS Code](https://img.shields.io/badge/VS%20Code-0a0a0a?style=flat&logo=vscode&logoColor=c9a84c)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-0a0a0a?style=flat&logo=visualstudio&logoColor=c9a84c)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat&logo=css3&logoColor=c9a84c)
 </div>
 
 
