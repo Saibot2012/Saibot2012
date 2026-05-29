@@ -10,16 +10,12 @@
 <table>
   <tr>
     <td>
-
-![stats](https://streak-stats.demolab.com?user=Saibot2012&theme=dark&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0a0a0a&stroke=1e1e1e&sideLabels=888888&dates=888888)
-
-</td>
-<td>
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=Saibot2012&bg_color=0a0a0a&color=c9a84c&line=c9a84c&point=1a1a1a&hide_border=true)
-
-</td>
-</tr>
+      <img src="https://streak-stats.demolab.com?user=Saibot2012&theme=dark&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0a0a0a&stroke=1e1e1e&sideLabels=888888&dates=888888" width="420"/>
+    </td>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saibot2012&bg_color=0a0a0a&color=c9a84c&line=c9a84c&point=1a1a1a&hide_border=true" width="420"/>
+    </td>
+  </tr>
 </table>
 
 </div>
