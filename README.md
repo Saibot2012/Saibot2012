@@ -1,4 +1,4 @@
-<h2>Hi, I'm Gin Kiat👋! I'm an aspiring software engineer who has an interest in Photography and image fusion!</h2>
+<h2>Hi, I'm Gin Kiat👋! I'm an aspiring software engineer who has an interest in photography and image fusion!</h2>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:c9a84c&height=140&section=header&text=Saibot2012&fontSize=32&fontColor=c9a84c&animation=fadeIn&fontAlignY=55)
 
@@ -47,7 +47,7 @@ Python developer focused on:
 
 ## 📊 github stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Saibot2012&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=c9a84c&icon_color=c9a84c&text_color=d4d4d4&hide_border=true)
+![stats](https://streak-stats.demolab.com?user=Saibot2012&theme=dark&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0a0a0a&stroke=1e1e1e&sideLabels=888888&dates=888888)
 
 ---
 
