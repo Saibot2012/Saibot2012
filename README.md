@@ -26,7 +26,9 @@
 ![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 ![status](https://img.shields.io/badge/status-coding%20in%20progress-0a0a0a?style=for-the-badge&logo=github&logoColor=c9a84c)
 
+<div align="center">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Saibot2012.Saibot2012&color=c9a84c&labelColor=0a0a0a&label=profile%20visits)
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,100:0a0a0a&height=80&section=footer)
