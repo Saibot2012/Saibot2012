@@ -7,7 +7,20 @@
 
 <div align="center">
 
-![stats](https://streak-stats.demolab.com?user=Saibot2012&theme=dark&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0a0a0a&stroke=1e1e1e&sideLabels=888888&dates=888888)
+<table>
+  <tr>
+    <td>
+
+![stats](https://github-readme-stats.vercel.app/api?username=Saibot2012&show_icons=true&theme=transparent&title_color=c9a84c&icon_color=c9a84c&text_color=d4d4d4&hide_border=true)
+
+</td>
+<td>
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=Saibot2012&bg_color=0a0a0a&color=c9a84c&line=c9a84c&point=1a1a1a&hide_border=true)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -24,7 +37,7 @@
 
 ![status](https://img.shields.io/badge/status-coding%20in%20progress-0a0a0a?style=for-the-badge&logo=github&logoColor=c9a84c)
 ![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=Saibot2012&bg_color=0a0a0a&color=c9a84c&line=c9a84c&point=1a1a1a&hide_border=true)
+
 
 <div align="center">
 
