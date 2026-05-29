@@ -1,16 +1,44 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:c9a84c&height=140&section=header&text=Saibot2012&fontSize=32&fontColor=c9a84c&animation=fadeIn&fontAlignY=55)
 
-<!--
-**Saibot2012/Saibot2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Saibot2012.Saibot2012&color=c9a84c&labelColor=0a0a0a&label=profile%20visits)
+
+</div>
+
+---
+
+## 🥁 about me
+
+Python developer focused on time-lapse and video processing. 
+
+---
+
+## 🛠️ tech stack
+
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat&logo=python&logoColor=c9a84c)
+![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0a?style=flat&logo=opencv&logoColor=c9a84c)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat&logo=linux&logoColor=c9a84c)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat&logo=git&logoColor=c9a84c)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-0a0a0a?style=flat&logo=ffmpeg&logoColor=c9a84c)
+
+---
+
+## 📌 projects
+
+| project | description |
+|---|---|
+| [Time-Lapse-Fusion](https://github.com/Saibot2012/Time-Lapse-Fusion) | automated time-lapse video generation |
+| [Time-Lapse-Fusion-HIGAR](https://github.com/Saibot2012/Time-Lapse-Fusion-HIGAR-) | temporal imaging & video analysis |
+
+---
+
+## 📊 github stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Saibot2012&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=888888&bg_color=0a0a0a&hide_border=true)
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,100:0a0a0a&height=80&section=footer)
