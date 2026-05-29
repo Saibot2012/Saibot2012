@@ -21,7 +21,6 @@
 
 </div>
 
-## 🛠️ tech stack
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=c9a84c)
@@ -33,7 +32,6 @@
 </div>
 
 
-## 📌 projects
 
 | project | description |
 |---|---|
