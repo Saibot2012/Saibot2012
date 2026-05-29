@@ -43,7 +43,7 @@ Python developer focused on:
 
 ## 📊 github stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=Saibot2012&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=c9a84c&icon_color=c9a84c&text_color=d4d4d4&hide_border=true)
+![stats](https://streak-stats.demolab.com?user=Saibot2012&theme=dark&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0a0a0a&stroke=1e1e1e&sideLabels=888888&dates=888888)
 
 ---
 
