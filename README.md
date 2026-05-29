@@ -15,24 +15,11 @@
 </div>
 
 
----
-## 📊 github stats
 <div align="center">
 
 ![stats](https://streak-stats.demolab.com?user=Saibot2012&theme=dark&hide_border=true&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0a0a0a&stroke=1e1e1e&sideLabels=888888&dates=888888)
 
 </div>
----
-
-## 🥁 about me
-
-Python developer focused on:
-- time-lapse generation
-- video processing
-- automation pipelines
-- computer vision experimentation
-
----
 
 ## 🛠️ tech stack
 <div align="center">
@@ -44,7 +31,7 @@ Python developer focused on:
 ![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=c9a84c)
 ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=c9a84c)
 </div>
----
+
 
 ## 📌 projects
 
@@ -54,7 +41,7 @@ Python developer focused on:
 | [Time-Lapse-Fusion-HIGAR](https://github.com/Saibot2012/Time-Lapse-Fusion-HIGAR-) | temporal imaging & video analysis |
 
 
----
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:c9a84c,100:0a0a0a&height=80&section=footer)
